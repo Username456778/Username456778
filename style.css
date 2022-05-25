@@ -1,0 +1,127 @@
+ h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+.www {
+    background-image: linear-gradient( rgb(94, 255, 255), white);
+    position: relative;
+    right: 0px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    height: 70px;
+}
+
+.cartinka {
+    width: 50%;
+}
+
+.venti{
+    width: 450px;
+    height: 450px;
+}
+
+.dhunli{
+    width: 450px;
+    height: 450px;
+}
+
+.ua {
+    width: 450px;
+    height: 450px;
+}
+
+.perv {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.vtoroy {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.arxont {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: darkviolet;
+}
+
+.rrr {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ft {
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+
+.fy {
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+
+.karta {
+    text-align: center;
+}
+
+.paymon1 {
+    text-align: center;
+}
+
+.paymon2 {
+    text-align: center;
+} 
+
+.mond1 {
+    text-align: center;
+}
+
+.mond2 {
+    text-align: center;
+}
+
+.li1 {
+    text-align: center;
+}
+
+.li2 {
+    text-align: center;
+}
+
+.li3 {
+    text-align: center;
+}
+
+.in1 {
+    text-align: center;
+}
+
+.in2 {
+    text-align: center;
+}
+
+.in3 {
+    text-align: center;
+}
+
+.gaha {
+    text-align: center;
+}
+
+.garant {
+    font-size: larger;
+}
+
+main {
+    width:60%;
+    margin: 0 auto 50px auto;
+}
+
+.jjj {
+    font-size: larger;
+}
+
+.payymon{
+    text-align: center;
+}
